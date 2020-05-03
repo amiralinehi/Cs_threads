@@ -1,0 +1,13 @@
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.exe
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.deps.json
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.dll
+A:\C#\Threads\Threads\bin\Debug\netcoreapp3.1\Threads.pdb
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.csprojAssemblyReference.cache
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.CoreCompileInputs.cache
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.dll
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
+A:\C#\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.genruntimeconfig.cache
